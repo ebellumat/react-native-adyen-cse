@@ -28,7 +28,7 @@
     "react-native",
     "adyen"
   ],
-  "license": "",
+  "license": "SEE LICENSE IN LICENSE",
   "main": "index.js",
   "name": "react-native-adyen-cse",
   "scripts": {
